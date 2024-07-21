@@ -1,1 +1,1 @@
-Hello there! Thisis just me trying to learn the fundamentals of LUA!
+Hello there! This is just me trying to learn the fundamentals of LUA!
